@@ -1,0 +1,2 @@
+hello.
+this is a file to practice linux's cp command by using system call
